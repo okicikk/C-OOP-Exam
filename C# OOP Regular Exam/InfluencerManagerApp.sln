@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InfluencerManagerApp", "InfluencerManagerApp.csproj", "{7EB462B6-2F89-49ED-8961-3056A04462BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EB462B6-2F89-49ED-8961-3056A04462BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB462B6-2F89-49ED-8961-3056A04462BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB462B6-2F89-49ED-8961-3056A04462BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB462B6-2F89-49ED-8961-3056A04462BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDD8CF28-0401-49DF-B005-E67A4A890596}
+	EndGlobalSection
+EndGlobal
